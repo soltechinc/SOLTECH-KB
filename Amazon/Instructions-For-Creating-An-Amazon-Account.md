@@ -1,4 +1,4 @@
-# Instructions for Creating and Amazon Web Services Account
+# Instructions for Creating an Amazon Web Services Account
 
 <base target="_blank"/>
 

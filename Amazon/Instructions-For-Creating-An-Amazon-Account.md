@@ -14,7 +14,7 @@
 1. Click on the "Sign In to the Console" button.<br/><br/>![Sign in to the Console button](Sign-In-To-The-Console-Button.png).
 1. On the next screen, click the "Create a new AWS account button"<br/><br/>![Create a new AWS Account button](Create-A-New-AWS-Account-Button.png)
 1. On the next screen, fill out the form, and click the "Continue" button.  These are your "root account credentials".
-<br/><br/>![Create an AWS Account form](Create-an-AWS-Account-form.png)
+<br/><br/>![Create an AWS Account form](Create-An-AWS-Account-form.png)
 1. On the next screen, simply complete the information.
 1. On the next screen, supply your credit card information.
 1. On the next screen, you will be asked to supply a phone number to verify your identity.

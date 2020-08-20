@@ -6,7 +6,7 @@ Jira is SOLTECH's main system for project management and time tracking.
 
 You should have received an email or printout with your Jira credentials. If not, please get with your on-boarding mentor to expedite that set-up.
 
-1. Navigate to [jira.soltech.net] and you will see the standard login screen. (below)
+1. Navigate to <http://jira.soltech.net> and you will see the standard login screen. (below)
 
 ![Jira Sign-in](./assets/Jira/jira-signin.png)
 
